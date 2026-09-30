@@ -14,6 +14,8 @@ header {
     padding: 0 8%;
     border-top: 2px solid #1683ed;
     background: white;
+    position: fixed;
+    width: 100%;
 }
 .logo {
     display: flex;
@@ -86,7 +88,7 @@ p {
     padding: 11px 38px;
     border: none;
     border-radius: 25px;
-    color: white;
+    color: #1683ed;
     font-weight: bold;
 }
 
